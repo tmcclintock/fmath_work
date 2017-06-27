@@ -1,3 +1,9 @@
+#emacs files
+*~
+
+#executables
+*exec
+
 # Prerequisites
 *.d
 
